@@ -12,7 +12,7 @@
             "id": "did:web:vivek-bodar.github.io:alice#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:vivek-bodar.github.io:alice",
-            "publicKeyBase58": "HEGZXyCSuyhXGXFy5AHydQzqwK1vbgYo9HTNcPATSAP8"
+            "publicKeyBase58": "2W44Z2CDkd1Rm4PA2HaMHtCBaPgFt4uiTJxiTMpS82eK"
         }
     ],
     "alsoKnownAs": [],
